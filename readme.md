@@ -27,7 +27,7 @@ for example:
 
     sh ~/eclipse-workspace/eclipse-fixup/target/xslt.sh ~/eclipse-workspace/broken-project
     
-After running the script you may need to run the maven -> update project within the project itself.
+After running the script close and reopen the project.  You may need to run the maven -> update project within the project itself.
 
 ## License ##
 
